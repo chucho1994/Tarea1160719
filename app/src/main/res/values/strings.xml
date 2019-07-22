@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Peso Personnas</string>
+
+    <string name="Nombre">Nombre : </string>
+    <string name="ingresa_nombre">Ingresa nombre</string>
+
+    <string name="Apellido">Apellido : </string>
+    <string name="Ingresa_apellido">Ingresa apellido</string>
+
+    <string name="Escuela">Escuela : </string>
+    <string name="Ingresa_escuela">Ingresa escuela : </string>
+
+    <string name="Edad">Edad : </string>
+    <string name="Ingresa_Edad">Ingresa edad</string>
+
+    <string name="Estatura">Estatura : </string>
+    <string name="Ingresa_estatura">Ingressa estatura</string>
+
+    <string name="Masculino"> M  </string>
+    <string name="Femenino"> F </string>
+
+    <string name="Calcular">Calcular </string>
+    <string name="Borrar">Borrar</string>
+</resources>
